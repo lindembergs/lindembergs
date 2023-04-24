@@ -1,4 +1,4 @@
-## Olá, sou lindemberg e atualmente estudo HTML,CSS e JavaScript!
+## Olá, sou lindemberg e atualmente estudo HTML,CSS e Angular!
 <div align="center">
   <a href="https://github.com/lindembergs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lindembergs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,7 @@
   <img align="center" alt="Berg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Berg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Berg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="angular" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
   
   ##
