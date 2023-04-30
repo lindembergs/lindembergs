@@ -12,10 +12,8 @@
   <img alt="typescript" align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="angular" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
-  <img alt="angular" align="center" height="40" width="40" src=
-  <img alt="angular" align="center" height="40" width="40" src=
-  <img alt="angular" align="center" height="40" width="40" src=
-  <img alt="angular" align="center" height="40" width="40" src="https://raw.githubusercontent.com/yamatoguro/yamatoguro/main/logo-animated.gif" />
+ <img alt="vscode" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg">
+ <img align="right" alt="Logo" height="150" src="https://github.com/yamatoguro/yamatoguro/blob/main/logo-animated.gif?raw=true" />
   
   
   ##
