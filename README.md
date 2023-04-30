@@ -15,7 +15,7 @@
   <img alt="angular" align="center" height="40" width="40" src=
   <img alt="angular" align="center" height="40" width="40" src=
   <img alt="angular" align="center" height="40" width="40" src=
-  (https://raw.githubusercontent.com/yamatoguro/yamatoguro/main/logo-animated.gif)
+  <img alt="angular" align="center" height="40" width="40" src=https://raw.githubusercontent.com/yamatoguro/yamatoguro/main/logo-animated.gif
   
   
   ##
