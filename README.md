@@ -11,7 +11,7 @@
   <img align="center" alt="Berg-bootstrap" height="50" width="40" src=https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-original.svg>
   <img alt="typescript" align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
-  <img alt="angular" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg)" />
+  <img alt="angular" align="center" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" />
   <img alt="angular" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="github" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg">
   <img alt="vscode" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg">
