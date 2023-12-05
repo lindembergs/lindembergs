@@ -1,10 +1,11 @@
-## Olá, sou lindemberg e atualmente estudo HTML,CSS, javaScript e React!
+## My name is Lindemberg Silva, from Brazil.🇧🇷 I work as a Full Stack Developer.👨🏽‍💻 I'm passionate about the best web and mobile development technologies.♥️ I'm currently focused on being a reference in my stacks.🚀
 <div align="center">
   <a href="https://github.com/lindembergs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lindembergs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindembergs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  Would you like to find me?
   <img align="center" alt="Berg-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Berg-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Berg-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
