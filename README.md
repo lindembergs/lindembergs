@@ -32,7 +32,7 @@
 <img class="alignnone wp-image-2873" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="dormrm" width="553" height="309">
 <img class="alignnone wp-image-2874" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif" alt="funcionou" width="548" height="308">
  
-  ![Snake animation](https://github.com/lindembergs/lindembergs)/blob/output/github-contribution-grid-snake.svg)
+ 
   
  
 </div>
