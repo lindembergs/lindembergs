@@ -5,9 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lindembergs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindembergs&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-| ----------- | ----------- |
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=maaclara&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maaclara&theme=radical) |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=maaclara&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lindembergs&theme=radical) |
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=maaclara&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=maaclara&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
 <div style="display: inline_block">My stacks and tools are:<br>
