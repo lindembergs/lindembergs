@@ -30,7 +30,7 @@
  <a href="https://discord.gg/KcJcnP9FdF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lindembergparaiba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lindemberg-da-silva-justino-430b47236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img class="alignnone wp-image-2873" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="dormrm" width="553" height="309">
+
 
  
  
