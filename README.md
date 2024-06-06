@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lindembergs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindembergs&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=maaclara&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maaclara&theme=radical) |
 <div style="display: inline_block">My stacks and tools are:<br>
   
   <img align="center" alt="Berg-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
