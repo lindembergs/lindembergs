@@ -1,5 +1,5 @@
 ## Hello guys 👋
-## My name is Lindemberg Silva, from Brazil.🇧🇷 I am studying to be a full stack developer.👨🏽‍💻 I'm passionate about the best web and mobile development technologies.♥️ I'm currently focused on being a reference in my stacks.🚀
+## Meu nome é Lindemberg Silva. Sou desenvolvedor full stack. 👨🏽‍💻 Sou apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. ♥️ Atualmente, estou focado em ser uma referência nas minhas stacks.
 <div align="center">
   <a href="https://github.com/lindembergs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lindembergs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
