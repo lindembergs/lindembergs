@@ -1,4 +1,4 @@
-## Hello guys 👋
+## Olá! 👋
 ## Meu nome é Lindemberg Silva. Sou desenvolvedor full stack. 👨🏽‍💻 Sou apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. ♥️ Atualmente, estou focado em ser uma referência nas minhas stacks.
 <div align="center">
   <a href="https://github.com/lindembergs">
