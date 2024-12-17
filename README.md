@@ -8,7 +8,7 @@ Today i'm Fullstack Developer.
 
 <div align="center">
  <a href="https://wakatime.com/@af392b69-f087-4cc0-8389-23e4fcef5a45"><img src="https://wakatime.com/badge/user/af392b69-f087-4cc0-8389-23e4fcef5a45.svg" alt="Total time coded since jan 1 2025" /></a><br>
-    <a href="https://wakatime.com"><img src="https://wakatime.com/photo/af392b69-f087-4cc0-8389-23e4fcef5a45?s=420&cache=false&time=1734479158.2535226" width="450px" height="320px" /></a><br>
+<!--     <a href="https://wakatime.com"><img src="https://wakatime.com/photo/af392b69-f087-4cc0-8389-23e4fcef5a45?s=420&cache=false&time=1734479158.2535226" width="450px" height="320px" /></a><br> -->
 </div>
 <div style="display: flex; align-items: center; justify-content: center">
 	<table>
