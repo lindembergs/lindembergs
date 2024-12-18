@@ -1,5 +1,6 @@
 <div align='center'>
-  <img style="width: 30px height: 20px;" src='👨‍💻'  />
+<!--   <img style="width: 30px height: 20px;" src='👨‍💻'  /> -->
+<p>👨‍💻</p>
 
 My name is Lindemberg Silva. I'm Fullstack Developer and mentoring support at Stack Code 24/06. 💻<br>
 
