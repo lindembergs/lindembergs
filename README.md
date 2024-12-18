@@ -1,5 +1,5 @@
 <div align='center'>
-  <img style="width: 30px, height: 20px;" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvbqPi9NQiUQ5-wbv-NLXm9IGREsj4-bhUQ&s'  />
+<!--   <img style="width: 30px, height: 20px;" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvbqPi9NQiUQ5-wbv-NLXm9IGREsj4-bhUQ&s'  /> -->
 
 My name is Lindemberg Silva. I'm Fullstack Developer and mentoring support at Stack Code 24/06. 💻<br>
 
