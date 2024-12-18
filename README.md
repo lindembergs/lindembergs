@@ -3,7 +3,7 @@
 <p>👨‍💻</p>
 
 My name is Lindemberg Silva. I'm Fullstack Developer and mentoring support at Stack Code 24/06. 💻<br>
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lindembergs&theme=github)
+
 
 Web development student since January 2022.
 Today i'm Fullstack Developer.
