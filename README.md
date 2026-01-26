@@ -2,10 +2,7 @@
 <!--   <img style="width: 30px height: 20px;" src='👨‍💻'  /> -->
 <p>👨‍💻</p>
 
-Meu nome é Lindemberg Silva. Sou Desenvolvedor Fullstack e mentor de suporte na Stack Code desde 24/06. 💻<br>
-
-Desenvolvimento web desde 2024.
-Atualmente sou Desenvolvedor Fullstack.
+Meu nome é Lindemberg Silva. Sou Desenvolvedor Fullstack e mentor de suporte na Stack Code. 💻<br>
 <div align="center">
 <!--  <a href="https://wakatime.com/@af392b69-f087-4cc0-8389-23e4fcef5a45"><img src="https://wakatime.com/badge/user/af392b69-f087-4cc0-8389-23e4fcef5a45.svg" alt="Total time coded since jan 1 2025" /></a><br> -->
 <!--     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@af392b69-f087-4cc0-8389-23e4fcef5a45/e91b8828-7636-4a92-a6ee-b64cf94d8a9e.svg" width="450px" height="320px" /></a><br> -->
