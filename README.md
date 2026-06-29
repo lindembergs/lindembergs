@@ -2,11 +2,12 @@
 <!--   <img style="width: 30px height: 20px;" src='👨‍💻'  /> -->
 <p>👨‍💻</p>
 
-My name is Lindemberg Silva. I'm Fullstack Developer and mentoring support at Stack Code 24/06. 💻<br>
+Meu nome é Lindemberg Silva. Sou Desenvolvedor Full Stack .NET e atuo como suporte de mentoria na Stack Code. 💻
 
+Estudo desenvolvimento web desde janeiro de 2022.
 
-Web development student since January 2022.
-Today i'm Fullstack Developer.
+Trabalho como Desenvolvedor Full Stack .NET desde 02/2025.
+
 <div align="center">
 <!--  <a href="https://wakatime.com/@af392b69-f087-4cc0-8389-23e4fcef5a45"><img src="https://wakatime.com/badge/user/af392b69-f087-4cc0-8389-23e4fcef5a45.svg" alt="Total time coded since jan 1 2025" /></a><br> -->
 <!--     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@af392b69-f087-4cc0-8389-23e4fcef5a45/e91b8828-7636-4a92-a6ee-b64cf94d8a9e.svg" width="450px" height="320px" /></a><br> -->
